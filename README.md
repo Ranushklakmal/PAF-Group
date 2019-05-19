@@ -1,5 +1,5 @@
 # PAF-GroupBuild 
-Restful CRUD API for a E-commerce webapp using Spring Boot, Mysql, JPA and Hibernate.
+Restful CRUD API for a E-commerce webapp using Spring Boot, Mysql.
 Requirements
 
     Java - 1.8.x
