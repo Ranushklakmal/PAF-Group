@@ -13,9 +13,9 @@ Requirements
 **Steps to Setup**
 
 1. Clone the application
-``sh
+```sh
 git clonehttps://github.com/Ranushklakmal/PAF-Group.git
-``
+```
 2. Create Mysql database
 
 create database 
