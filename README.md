@@ -1,4 +1,6 @@
 # PAF-GroupBuild 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 Restful CRUD API for a E-commerce webapp using Spring Boot, Mysql.
 Requirements
 
