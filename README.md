@@ -22,9 +22,8 @@ create database
 ```
 3. Change mysql username and password as per your installation
 ```sh
-    open src/main/resources/application.properties
-
-    change spring.datasource.username and spring.datasource.password as per your mysql installation
+open src/main/resources/application.properties
+change spring.datasource.username and spring.datasource.password as per your mysql installation
 ```
 4. Build and run the app using maven
 ```sh
