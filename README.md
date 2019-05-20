@@ -28,8 +28,7 @@ create database
 ```
 4. Build and run the app using maven
 ```sh
-you can run the app without packaging it using -
-
+you can run the app without packaging it using 
 mvn spring-boot:run
 
 The app will start running at http://localhost:8086
