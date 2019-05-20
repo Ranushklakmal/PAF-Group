@@ -14,7 +14,7 @@ Requirements
 
 1. Clone the application
 ```sh
-git clonehttps://github.com/Ranushklakmal/PAF-Group.git
+https://github.com/Ranushklakmal/PAF-Group.git
 ```
 2. Create Mysql database
 ```sh
